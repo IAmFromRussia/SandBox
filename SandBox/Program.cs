@@ -37,30 +37,31 @@ namespace SandBox
             };
 
 
-            var listDeck = new Dictionary<List<string>, List<string>>();
-
+            var listDeck = new List<KeyValuePair<string,string>>();
+            var pair = new KeyValuePair<string,string>();
+            
             var rnd = new Random();
 
-            listDeck.Add(suits, values);
             int count = 0;
             int rndKey, rndValue;
 
-            foreach (var ld in listDeck)
+            
+
+            for (int i = 0; i < suits.Count; i++)
             {
-
-                for (int i = 0; i < ld.Key.Count; i++)
+                for (int j = 0; j < values.Count; j++)
                 {
-                    for (int j = 0; j < ld.Value.Count; j++)
-                    {
-                        rndKey = rnd.Next(0, suits.Count);
-                        rndValue = rnd.Next(0, values.Count);
+                    rndKey = rnd.Next(0, suits.Count);
+                    rndValue = rnd.Next(0, values.Count);
 
-                        Console.WriteLine(ld.Key[rndKey] + " " + ld.Value[rndValue]);
+                    listDeck.Add(new KeyValuePair<string, string>(suits[rndKey],values[rndValue]));
+                    
 
-                        count++;
-                    }
+                    count++;
                 }
             }
+            
+            listDeck.ForEach(ld => Console.WriteLine($"{ld.Key}:{ld.Value}"));
 
             Console.WriteLine(count);
 
