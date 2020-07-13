@@ -1,0 +1,13 @@
+C:\Users\permo\RiderProjects\SandBox\SandBox\bin\Debug\netcoreapp3.1\SandBox.exe
+C:\Users\permo\RiderProjects\SandBox\SandBox\bin\Debug\netcoreapp3.1\SandBox.deps.json
+C:\Users\permo\RiderProjects\SandBox\SandBox\bin\Debug\netcoreapp3.1\SandBox.runtimeconfig.json
+C:\Users\permo\RiderProjects\SandBox\SandBox\bin\Debug\netcoreapp3.1\SandBox.runtimeconfig.dev.json
+C:\Users\permo\RiderProjects\SandBox\SandBox\bin\Debug\netcoreapp3.1\SandBox.dll
+C:\Users\permo\RiderProjects\SandBox\SandBox\bin\Debug\netcoreapp3.1\SandBox.pdb
+C:\Users\permo\RiderProjects\SandBox\SandBox\obj\Debug\netcoreapp3.1\SandBox.csprojAssemblyReference.cache
+C:\Users\permo\RiderProjects\SandBox\SandBox\obj\Debug\netcoreapp3.1\SandBox.AssemblyInfoInputs.cache
+C:\Users\permo\RiderProjects\SandBox\SandBox\obj\Debug\netcoreapp3.1\SandBox.AssemblyInfo.cs
+C:\Users\permo\RiderProjects\SandBox\SandBox\obj\Debug\netcoreapp3.1\SandBox.csproj.CoreCompileInputs.cache
+C:\Users\permo\RiderProjects\SandBox\SandBox\obj\Debug\netcoreapp3.1\SandBox.dll
+C:\Users\permo\RiderProjects\SandBox\SandBox\obj\Debug\netcoreapp3.1\SandBox.pdb
+C:\Users\permo\RiderProjects\SandBox\SandBox\obj\Debug\netcoreapp3.1\SandBox.genruntimeconfig.cache

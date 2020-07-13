@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\permo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\permo\\.nuget\\packages"
+    ]
+  }
+}
